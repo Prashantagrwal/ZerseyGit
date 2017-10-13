@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Zersey</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="category_array">
+        <item>Choose Event Type</item>
+        <item>Seminars and Conferences</item>
+        <item>Trade Shows</item>
+        <item>Executive Retreats and Incentive Programs</item>
+        <item>Golf Events</item>
+        <item>Appreciation Events</item>
+        <item>Company or Organization Milestones</item>
+        <item>Product Launch Events</item>
+
+    </string-array>
+</resources>

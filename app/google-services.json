@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "374248622076",
+    "firebase_url": "https://zersey-7c4ce.firebaseio.com",
+    "project_id": "zersey-7c4ce",
+    "storage_bucket": "zersey-7c4ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374248622076:android:7a26a3a7d1413113",
+        "android_client_info": {
+          "package_name": "com.example.dell.zersey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374248622076-g8jnlgl65t54gsrkbsl4h29tacavhg0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.zersey",
+            "certificate_hash": "6747787763b934e227e004212d8ead6a87c0f744"
+          }
+        },
+        {
+          "client_id": "374248622076-j9puenlb6m3g7dv13vban6c1rbukia6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATOWdMO9C7g_fcEaKwEWx9-aI27BfFyP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374248622076-j9puenlb6m3g7dv13vban6c1rbukia6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

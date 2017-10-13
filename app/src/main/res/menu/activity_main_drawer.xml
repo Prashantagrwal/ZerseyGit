@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+            <item
+                android:id="@+id/nav_share"
+                android:title="Your Event" />
+
+     <item
+        android:title="About us" />
+    <item
+
+        android:title="Contact Us" />
+
+    <item
+
+        android:title="Rate Us" />
+            <item
+                android:id="@+id/nav_send"
+                android:title="Log Out" />
+
+</menu>
